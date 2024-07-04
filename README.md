@@ -33,5 +33,5 @@
 
 #### Hasil Presentase Warna Setiap Segmen
 
-<img src="(https://github.com/RianFauza/UAS-CITRA/assets/115542822/f51d2f99-98e0-43b6-8c28-b60ef58ea1c8" alt="deskripsi_gambar" style="width: 70%; height: auto;">
+<img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/0d14062b-41af-4247-be0e-a1fa056ac3a2" alt="deskripsi_gambar" style="width: 70%; height: auto;">
 
