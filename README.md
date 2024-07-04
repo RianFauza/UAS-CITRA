@@ -7,6 +7,31 @@
 
 ### App K-Means Clutering Segmentasi Gambar 
 
+1. **Imports**: Mengimpor library yang diperlukan seperti `streamlit`, `numpy`, `cv2` (OpenCV), `Image` (dari PIL), dan `matplotlib` untuk plotting.
+
+2. **Fungsi `segment_image`**: Fungsi ini menggunakan K-Means Clustering untuk membagi gambar menjadi beberapa segmen berdasarkan warna. Ini dilakukan dengan mereshape gambar menjadi array piksel dan mengaplikasikan K-Means menggunakan OpenCV.
+
+3. **Fungsi `get_color_name`**: Fungsi ini mengidentifikasi nama warna berdasarkan nilai RGB dari pusat cluster yang dihasilkan oleh K-Means.
+
+4. **Konfigurasi Halaman Streamlit**: Mengatur judul halaman, ikon, dan layout halaman menggunakan `st.set_page_config` dan menambahkan gaya CSS untuk mempercantik tampilan.
+
+5. **Tampilan Aplikasi**: Memanfaatkan markup HTML dan fungsi Streamlit seperti `st.markdown` untuk menampilkan judul aplikasi dan segmen.
+
+6. **Layout Kolom**: Membagi antara kolom untuk mengunggah gambar dan kolom untuk pengaturan segmentasi menggunakan `st.columns`.
+
+7. **Unggah Gambar**: Memungkinkan pengguna untuk mengunggah gambar, kemudian menampilkan gambar tersebut menggunakan `st.image`.
+
+8. **Parameter Segmentasi**: Di sidebar, menampilkan slider untuk memilih jumlah cluster (k) dan tombol untuk memicu proses segmentasi.
+
+9. **Proses Segmentasi**: Ketika tombol "Segmentasikan Gambar" ditekan, aplikasi akan memproses gambar yang diunggah menggunakan K-Means Clustering. Hasil segmentasi dan persentase warna setiap segmen ditampilkan.
+
+10. **Plot Warna**: Menampilkan plot warna untuk setiap segmen menggunakan warna yang diidentifikasi.
+
+11. **Menjalankan Aplikasi**: Menggunakan `if __name__ == '__main__':` untuk memastikan aplikasi dijalankan dengan benar saat skrip dieksekusi.
+
+Aplikasi ini memanfaatkan kekuatan Streamlit untuk membuat antarmuka pengguna yang interaktif dan menampilkan hasil segmentasi gambar secara visual.
+
+
 #### Tampilan Home
 
 <img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/705added-7514-49b2-84dd-b34fa611a9c3" alt="deskripsi_gambar" style="width: 70%; height: auto;">
