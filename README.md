@@ -1,11 +1,11 @@
-# UAS-PENGOLAHAN CITRA
+## UAS-PENGOLAHAN CITRA
 
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Agus Setiawan  | 312210193 | TI 22 A2 |
 | Rian Fauza  | 312210083 | TI 22 A2 |
 
-# Segmentasi Gambar Menggunakan K-Means Clutering
+### Segmentasi Gambar Menggunakan K-Means Clutering
 
 #### Tampilan Home
 
