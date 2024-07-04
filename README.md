@@ -35,3 +35,7 @@
 
 <img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/0d14062b-41af-4247-be0e-a1fa056ac3a2" alt="deskripsi_gambar" style="width: 70%; height: auto;">
 
+#### Hasil k-means clustering dengan jumlah cluster(5)
+
+<img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/7b296845-c3f8-4de6-b891-cd42fa4380ff" alt="deskripsi_gambar" style="width: 70%; height: auto;">
+
