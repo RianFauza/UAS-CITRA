@@ -1,5 +1,7 @@
 ## UAS-PENGOLAHAN CITRA
 
+<img src="https://github.com/RianFauza/Analisisa-Kebutuhan-Sistem/assets/115771479/43b2506a-c07b-4ce1-8a9c-9346201cae89" alt="deskripsi_gambar" style="width: 70%; height: auto;">
+
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Agus Setiawan  | 312210193 | TI 22 A2 |
