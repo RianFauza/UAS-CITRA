@@ -1,6 +1,6 @@
 ## UAS-PENGOLAHAN CITRA
 
-<img src="https://github.com/RianFauza/Analisisa-Kebutuhan-Sistem/assets/115771479/43b2506a-c07b-4ce1-8a9c-9346201cae89" alt="deskripsi_gambar" style="width: 70%; height: auto;">
+<img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/705added-7514-49b2-84dd-b34fa611a9c3" alt="deskripsi_gambar" style="width: 50%; height: auto;">
 
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
