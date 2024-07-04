@@ -1,6 +1,6 @@
 ## UAS-PENGOLAHAN CITRA
 
-<img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/705added-7514-49b2-84dd-b34fa611a9c3" alt="deskripsi_gambar" style="width: 50%; height: auto;">
+<img src="https://github.com/RianFauza/UAS-CITRA/assets/115542822/705added-7514-49b2-84dd-b34fa611a9c3" alt="deskripsi_gambar" style="width: 70%; height: auto;">
 
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
